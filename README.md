@@ -32,21 +32,6 @@ This project demonstrates creative UI design, component remixing, and layout com
 
 ---
 
-## 📂 Project Structure
-
-cafe-delight/
-├── index.html
-├── about.html
-├── contact.html
-├── images/
-│ ├── hero.jpg
-│ ├── dish1.jpg
-│ ├── dish2.jpg
-│ └── dish3.jpg
-└── README.md
-
----
-
 ## 🧠 Step-by-Step Project Process
 
 1. **Understanding the Task:**  
@@ -109,13 +94,8 @@ This project helped improve my front-end development confidence and UI/UX unders
 
 ## ⏱️ Time Taken
 
-| **Stage** | **Duration** |
-|------------|---------------|
-| Research & Planning | 1.5 hours |
-| Designing Home, About, and Contact pages | 4 hours |
-| Testing Responsiveness & Fixing Bugs | 1.5 hours |
-| Deployment & Documentation | 1 hour |
-| **Total Time Taken:** | **≈ 8 hours** |
+**Total Time:** Approximately **1 hour** (including coding, testing, and deployment)
+
 
 ---
 
