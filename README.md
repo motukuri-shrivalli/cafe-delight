@@ -120,12 +120,4 @@ Finally, I tested and deployed the project to Vercel for live access.
 
 ---
 
-## ✅ Transparency Statement
-
-This project was created as part of the **Keshavsoft Internship Task**.  
-While I referred to **Bootstrap documentation** and used **ChatGPT** for guidance, all code implementation, design structuring, and customization were done independently.  
-All external resources used have been properly referenced.
-
----
-
 © 2025 **Cafe Delight** | Designed and Developed by **Motukuri Shrivalli**
